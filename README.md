@@ -1,6 +1,8 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+
+Nesse repositório, é apresentado o passo a passo de instalação do Git no sistema operacional windows.
+
 
 ## Link Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Git para Windows](https://gitforwindows.org/)
 
