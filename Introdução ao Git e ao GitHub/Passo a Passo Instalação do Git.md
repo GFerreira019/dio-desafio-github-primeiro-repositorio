@@ -7,6 +7,7 @@
    
 
 2. Depois de baixado, clique duas vezes no arquivo para iniciar o assistente de instalação. Basta seguir as instruções na tela, clicando em **Next**. Ao terminar, clique em **Finish** para concluir a instalação.
+
    ![git janela de instalação](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2017/04/git-install-windows.png)
 
    
